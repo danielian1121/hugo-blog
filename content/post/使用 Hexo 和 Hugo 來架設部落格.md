@@ -14,9 +14,7 @@ Hexo 是一款基於 Node.js 所製作的網誌框架，官網內的中文文件
 
 以下將介紹如何在 Ubuntu 中安裝和操作
 
-### 安裝教學
-
-#### 前置作業
+### Hexo 安裝教學
 
 首先我們需要安裝 Node.js 和 git ，這邊推薦使用 nvm 來安裝 Node.js
 如何安裝可以參考 nvm 的 Github
@@ -43,8 +41,16 @@ sudo apt install git
 npm install -g hexo-cli
 ```
 
-## Hugo 操作教學
+## Hugo
 
 [Hugo 官網](https://gohugo.io/)
+
+Hugo 是基於 Go 語言所開發的網誌工具，官網首頁大大寫著 「`The world’s fastest framework for building websites`」，看來他們團隊對於 Hugo 的打包速度相當自豪
+
+以下介紹如何在 Ubuntu 上安裝和操作
+
+### Hugo 安裝教學
+
+3
 
 ## 網域基本概念與註冊購買
