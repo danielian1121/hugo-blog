@@ -1,6 +1,6 @@
 ---
 title: "使用 Hugo + Netlify + Gandi 來架設部落格 Part 1"
-date: 2022-04-30T13:25:17+08:00
+date: 2022-04-29T13:25:17+08:00
 tags: [教學系列]
 draft: false
 ---
@@ -92,4 +92,5 @@ Hugo 算是蠻主流的靜態網站框架，架設起來也不會很困難
 ### References
 
 <https://gohugo.io/getting-started/quick-start/>
+
 <https://ithelp.ithome.com.tw/articles/10235097>
