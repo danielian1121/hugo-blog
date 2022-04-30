@@ -1,4 +1,4 @@
 baseURL = 'https://sukamo-hugo.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SuKamo Blog'
 theme = "hugo-clarity"
