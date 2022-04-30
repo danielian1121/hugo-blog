@@ -1,5 +1,5 @@
 ---
-title: [教學] 使用 Hexo 來架設部落格
+title: "[教學] 使用 Hexo 來架設部落格"
 date: 2021-09-05T17:25:17+08:00
 tags: [教學系列]
 draft: true
