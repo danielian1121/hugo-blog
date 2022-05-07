@@ -13,7 +13,7 @@ draft: false
 
 此教學會分成三個部份來介紹：
 
-1. Hugo
+1. [Hugo](https://sukamo.top/post/%E4%BD%BF%E7%94%A8-hugo-+-netlify-+-gandi-%E4%BE%86%E6%9E%B6%E8%A8%AD%E9%83%A8%E8%90%BD%E6%A0%BC-part-1/)
 2. Netlify
 3. Gandi
 
